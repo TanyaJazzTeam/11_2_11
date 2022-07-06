@@ -36,7 +36,7 @@ msgstr "Cadre AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
-msgstr "Spécification HTML AMP"
+msgstr ""
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
